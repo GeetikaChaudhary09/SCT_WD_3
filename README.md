@@ -35,6 +35,8 @@ Restart: At any time, click the refresh button in the top right to restart the g
 
 View Results: A modal will pop up at the end of each round showing the result.
 
+**Live task Link:** https://geetikachaudhary09.github.io/SCT_WD_3/
+
 **👨‍💻 Internship Contribution**
 This project demonstrates my skills in front-end development, including:
 
